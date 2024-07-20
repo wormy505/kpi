@@ -1,0 +1,8 @@
+{
+	"KPIs": "KPIs",
+	"KPI_Users": "KPI_Users",
+	"UUID_Tracker": "UUID_Tracker",
+	"Database_Password" : "!PlanningTeam_KEC",
+	"SUPABASE_URL" : "https://rxpwvckmxdvvwnmmznqh.supabase.co",
+	"SUPABASE_KEY" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ4cHd2Y2tteGR2dndubW16bnFoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjExMTc0MDksImV4cCI6MjAzNjY5MzQwOX0.P4IWgcHIM1QnqyXhz1Y_hS0WgCy_8-yrpQ_eoIByWiY"
+}
